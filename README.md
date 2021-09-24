@@ -1,0 +1,2 @@
+# Dicegame
+random number functions
